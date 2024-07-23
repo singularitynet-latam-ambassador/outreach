@@ -114,6 +114,7 @@
 1. Crea issues para la edición de cada video.
 2. Revisa los videos y solicita retroalimentación del equipo.
 3. Planifica la publicación en TikTok e Instagram, y crea un pull request para revisar el plan de publicación.
+4. Crear Capcut Team space
 
 #### Diseminación del Contenido:
 1. Crea issues para la difusión de cada publicación.
