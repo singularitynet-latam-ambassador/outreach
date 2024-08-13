@@ -1,6 +1,6 @@
 ### SNET Latam Ambassadors Social Media Handle:
 - [MD Doc](social-media/Ambassadors_SocialMediaHandles.md)
-- [Issue #1](https://github.com/singularitynet-latam-ambassador/outreach/issues/11)
+- [Issue #11](https://github.com/singularitynet-latam-ambassador/outreach/issues/11)
 
 ---
 
