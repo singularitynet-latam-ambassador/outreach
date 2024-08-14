@@ -1,7 +1,7 @@
 | **📜 Document Status**   | **Description**                                            | **Progress**       |
 |--------------------------|------------------------------------------------------------|--------------------|
 | 🟢 **Creation**           | Structure established and framework laid out.             | ✅✅✅✅✅✅✅✅✅✅ 100%  |
-| 🟡 **Add Data and Info**  | Social media handles and ambassador details are being added.| ✅✅✅⬜⬜⬜⬜⬜⬜⬜ 30%  |
+| 🟡 **Add Data and Info**  | Social media handles and ambassador details are being added.| ✅✅✅✅✅✅⬜⬜⬜⬜ 60%  |
 | 🟠 **Review**             | Document is under review for accuracy and completeness.     | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%    |
 | 🟡 **Completion**         | Finalized and all information has been verified.            | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%    |
 
