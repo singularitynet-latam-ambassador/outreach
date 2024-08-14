@@ -56,11 +56,11 @@ _This document lists the social media handles for the SNET LATAM Ambassadors, ca
 ### [Martin Nicolas Rivero]
 - **GitHub:** [@martinrivero15](https://github.com/martinrivero15)
 - **TikTok:** [@handle](https://www.tiktok.com/@handle)
-- **Instagram:** [@handle](https://www.instagram.com/handle)
-- **X.com:** [@handle](https://x.com/handle)
-- **LinkedIn:** [@handle](https://www.linkedin.com/in/handle)
+- **Instagram:** [@martin_n_rivero](https://www.instagram.com/handle)
+- **X.com:** [@RiveroMartinOK](https://x.com/handle)
+- **LinkedIn:** [@martinnrivero](https://www.linkedin.com/in/handle)
 - **YouTube:** [Channel Name](https://www.youtube.com/channel/handle)
-- **Medium:** [@handle](https://medium.com/@handle)
+- **Medium:** [@martinnicolasrivero](https://medium.com/@handle)
 - **Other Platforms:**
   - [Platform Name]: [@handle](#)
 
