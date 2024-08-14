@@ -42,14 +42,14 @@ _This document lists the social media handles for the SNET LATAM Ambassadors, ca
 
 ### [Andrea Dekovic]
 - **GitHub:** [@andreadekovic](https://github.com/andreadekovic)
-- **TikTok:** [@handle](https://www.tiktok.com/@handle)
-- **Instagram:** [@handle](https://www.instagram.com/handle)
-- **X.com:** [@handle](https://x.com/handle)
-- **LinkedIn:** [@handle](https://www.linkedin.com/in/handle)
-- **YouTube:** [Channel Name](https://www.youtube.com/channel/handle)
-- **Medium:** [@handle](https://medium.com/@handle)
+- **TikTok:** [@lasfloresfilmfestival](https://www.tiktok.com/@lasfloresfilmfestival)
+- **Instagram:** [@andreadekovic](https://www.instagram.com/andreadekovic/)
+- **X.com:** [[@AndreaDekovic](https://x.com/AndreaDekovic)]
+- **LinkedIn:** [@andreadekovic](https://www.linkedin.com/in/andreadekovic/)
+- **YouTube:** [andreadekovic](https://www.youtube.com/@lasfloresfilmfestival)
+- **Medium:** [@andreadekovic](https://medium.com/@andreadekovic)
 - **Other Platforms:**
-  - [Platform Name]: [@handle](#)
+  - [Linktree]: [@handle]()
 
 ---
 
