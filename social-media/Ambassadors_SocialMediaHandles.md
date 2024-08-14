@@ -24,7 +24,7 @@ _This document lists the social media handles for the SNET LATAM Ambassadors, ca
 - **YouTube:** []()
 - **Medium:** [@inegav](https://medium.com/@inegav)
 - **Other Platforms:**
-  - [Linktree]: [@inesgav](https://linktr.ee/inesgav)
+  - **Linktree**: [@inesgav](https://linktr.ee/inesgav)
 
 ---
 
