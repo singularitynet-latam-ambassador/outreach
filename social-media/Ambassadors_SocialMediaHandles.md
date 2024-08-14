@@ -17,14 +17,14 @@ _This document lists the social media handles for the SNET LATAM Ambassadors, ca
 
 ### [Inés Gaviña]
 - **GitHub:** [@inesgav](https://github.com/inesgav)
-- **TikTok:** [@handle](https://www.tiktok.com/@handle)
-- **Instagram:** [@handle](https://www.instagram.com/handle)
-- **X.com:** [@handle](https://x.com/handle)
-- **LinkedIn:** [@handle](https://www.linkedin.com/in/handle)
-- **YouTube:** [Channel Name](https://www.youtube.com/channel/handle)
-- **Medium:** [@handle](https://medium.com/@handle)
+- **TikTok:** []()
+- **Instagram:** [@inesgavv](https://www.instagram.com/inesgavv/)
+- **X.com:** [@inegava1](https://x.com/inegava1)
+- **LinkedIn:** [Inés Gaviña](https://www.linkedin.com/in/in%C3%A9s-gavi%C3%B1a-57425a56/)
+- **YouTube:** []()
+- **Medium:** [@inegav](https://medium.com/@inegav)
 - **Other Platforms:**
-  - [Platform Name]: [@handle](#)
+  - [Linktree]: [@inesgav](https://linktr.ee/inesgav)
 
 ---
 
